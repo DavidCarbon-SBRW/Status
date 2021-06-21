@@ -3,32 +3,32 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: (CDN) [CF] WorldUnited.gg Mirror
+  - name: [CDN] WorldUnited.gg Mirror
     url: https://cdn.worldunited.gg/en/index.xml
-  - name: (CDN) [CF] DavidCarbon Mirror
+  - name: [CDN] DavidCarbon Mirror
     url: http://g-sbrw.davidcarbon.download/en/index.xml
-  - name: (CDN) [FR] NightRiderz Mirror
+  - name: [CDN] NightRiderz Mirror
     url: https://cdn.nightriderz.world/nfsw/en/index.xml
-  - name: (CDN) [US] DavidCarbon Mirror - Alternative
+  - name: [CDN] DavidCarbon Mirror - Alternative
     url: http://g2-sbrw.davidcarbon.download/en/index.xml
-  - name: (Server) WorldUnited OFFICIAL
+  - name: [Server] WorldUnited OFFICIAL
     url: http://game.worldunited.gg:8080/Engine.svc/GetServerInformation
-  - name: (Server) NIGHTRIDERZ - HORIZON
+  - name: [Server] NIGHTRIDERZ - HORIZON
     url: http://horizon.nightriderz.world:8080/Engine.svc/GetServerInformation
-  - name: (Server) World Evolved RU
+  - name: [Server] World Evolved RU
     url: http://92.63.111.195:8680/soapbox-race-core/Engine.svc/GetServerInformation
-  - name: (Server) Sparkserver
+  - name: [Server] Sparkserver
     url: https://core.sparkserver.io/soapbox-race-core/Engine.svc/GetServerInformation
-  - name: (Server) UNDERGROUND STAGE - BETA
+  - name: [Server] UNDERGROUND STAGE - BETA
     url: http://155.138.131.23:8080/core/Engine.svc/GetServerInformation
-  - name: (Server) WorldOnline
+  - name: [Server] WorldOnline
     url: http://worldonline.pl:2137/Engine.svc/GetServerInformation
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /Status
+  cname: s-sbrw.davidcarbon.download
+  # baseUrl: /Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
