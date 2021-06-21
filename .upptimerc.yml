@@ -25,7 +25,7 @@ sites:
     url: http://worldonline.pl:2137/Engine.svc/GetServerInformation
 
 status-website:
-  theme: dark
+  # theme: dark
   metaTags:
     - name: "color-scheme"
       content: "dark light"
