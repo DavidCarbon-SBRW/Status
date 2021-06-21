@@ -61,5 +61,6 @@ commitMessages:
   commitAuthorEmail: "70424232+UmikoAhagon-EJ@users.noreply.github.com"
 workflowSchedule:
   updates: "6 * * * *"
+  uptime: "6 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
