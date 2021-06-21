@@ -52,6 +52,7 @@ status-website:
       href: /
     - title: Source Code
       href: https://github.com/$OWNER/$REPO
+
 commitMessages:
   readmeContent: ":pencil: Update summary in README"
   summaryJson: ":card_file_box: Update status summary"
@@ -59,8 +60,8 @@ commitMessages:
   graphsUpdate: ":bento: Update graphs"
   commitAuthorName: "UmikoAhagon-EJ"
   commitAuthorEmail: "70424232+UmikoAhagon-EJ@users.noreply.github.com"
+
 workflowSchedule:
-  updates: "6 * * * *"
-  uptime: "6 * * * *"
+  updates: "10 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
