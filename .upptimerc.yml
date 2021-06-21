@@ -47,7 +47,7 @@ status-website:
     - title: Source Code
       href: https://github.com/$OWNER/$REPO
   commitMessages:
-    commitAuthorName: "UmikoAhagon-EJ"
+    commitAuthorName: UmikoAhagon-EJ
     commitAuthorEmail: $UMIKO_AHAGON
 
 # Upptime also supports notifications, assigning issues, and more
