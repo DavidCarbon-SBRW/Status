@@ -1,6 +1,7 @@
 # Change these first
 owner: DavidCarbon-SBRW # Your GitHub organization or username, where this repository lives
 repo: Status # The name of this repository
+user-agent: DavidCarbon-Status-Checker
 
 sites:
   - name: (CDN) WorldUnited.gg Mirror
@@ -25,10 +26,7 @@ sites:
     url: http://worldonline.pl:2137/Engine.svc/GetServerInformation
 
 status-website:
-  # theme: dark
-  metaTags:
-    - name: "color-scheme"
-      content: "dark light"
+  theme: night 
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: s-sbrw.davidcarbon.download
@@ -46,9 +44,9 @@ status-website:
       href: /
     - title: Source Code
       href: https://github.com/$OWNER/$REPO
-  commitMessages:
-    commitAuthorName: "UmikoAhagon-EJ"
-    commitAuthorEmail: "70424232+UmikoAhagon-EJ@users.noreply.github.com"
+commitMessages:
+  commitAuthorName: UmikoAhagon-EJ
+  commitAuthorEmail: $UMIKO_AHAGON
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
