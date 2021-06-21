@@ -37,4 +37,4 @@ jobs:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
           user_name: "UmikoAhagon-EJ"
-          user_email: "70424232+UmikoAhagon-EJ@users.noreply.github.com"
+          user_email: "$UMIKO_AHAGON"
