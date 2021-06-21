@@ -4,6 +4,14 @@ repo: Status # The name of this repository
 user-agent: DavidCarbon-Status-Checker
 
 sites:
+  - name: (API) WorldUnited.gg List
+    url: https://api.worldunited.gg/serverlist.json
+  - name: (API) DavidCarbon - Main List
+    url: https://api-sbrw.davidcarbon.download/serverlist.json
+  - name: (API) DavidCarbon - Backup List
+    url: http://api2-sbrw.davidcarbon.download/serverlist.json
+  - name: (API) WOPL - List
+    url: http://worldonline.pl/serverlist.json
   - name: (CDN) WorldUnited.gg Mirror
     url: https://cdn.worldunited.gg/en/index.xml
   - name: (CDN) DavidCarbon Mirror
@@ -45,8 +53,8 @@ status-website:
     - title: Source Code
       href: https://github.com/$OWNER/$REPO
 commitMessages:
-  commitAuthorName: "UmikoAhagon-EJ"
-  commitAuthorEmail: "70424232+UmikoAhagon-EJ@users.noreply.github.com"
+  commitAuthorName: UmikoAhagon-EJ
+  commitAuthorEmail: $UMIKO_AHAGON
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
