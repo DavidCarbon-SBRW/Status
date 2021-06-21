@@ -64,12 +64,12 @@ commitMessages:
 workflowSchedule:
   # Unit of Time Reference
   # https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
-  graphs: "0 1 0 0 0"
-  responseTime: "0 12 0 0 0"  
-  staticSite: "20 0 0 0 0"
-  summary: "0 1 0 0 0"
-  updateTemplate: "0 1 0 0 0"
-  updates: "10 0 0 0 0"
-  uptime: "10 0 0 0 0"
+  graphs: "0 1 * * *"
+  responseTime: "0 12 * * *"  
+  staticSite: "20 0 * * *"
+  summary: "0 1 * * *"
+  updateTemplate: "0 1 * * *
+  updates: "10 0 * * *"
+  uptime: "10 0 * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
