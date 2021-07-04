@@ -1,7 +1,7 @@
 url: http://worldonline.pl:2137/Engine.svc/GetServerInformation
 status: up
 code: 200
-responseTime: 184
-lastUpdated: 2021-07-03T12:30:07.248Z
+responseTime: 301
+lastUpdated: 2021-07-04T12:30:15.343Z
 startTime: Mon Jun 21 2021 03:46:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
