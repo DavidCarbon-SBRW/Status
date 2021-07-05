@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/api.worldunited.gg",
     "slug": "api-world-united-gg-list",
     "status": "down",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 289,
     "timeDay": 367,
     "timeWeek": 245,
@@ -26,16 +26,18 @@
     "slug": "api-david-carbon-main-list",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 459,
-    "timeDay": 880,
-    "timeWeek": 474,
-    "timeMonth": 459,
-    "timeYear": 459,
-    "dailyMinutesDown": {}
+    "time": 447,
+    "timeDay": 531,
+    "timeWeek": 438,
+    "timeMonth": 447,
+    "timeYear": 447,
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "(API) DavidCarbon - Backup List",
@@ -44,16 +46,18 @@
     "slug": "api-david-carbon-backup-list",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 388,
-    "timeWeek": 261,
-    "timeMonth": 221,
-    "timeYear": 221,
-    "dailyMinutesDown": {}
+    "time": 214,
+    "timeDay": 232,
+    "timeWeek": 238,
+    "timeMonth": 214,
+    "timeYear": 214,
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "(API) WOPL - List",
@@ -98,16 +102,18 @@
     "slug": "cdn-david-carbon-mirror",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 216,
-    "timeWeek": 312,
-    "timeMonth": 274,
-    "timeYear": 274,
-    "dailyMinutesDown": {}
+    "time": 266,
+    "timeDay": 130,
+    "timeWeek": 279,
+    "timeMonth": 266,
+    "timeYear": 266,
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "(CDN) NightRiderz Mirror",
@@ -134,16 +140,18 @@
     "slug": "cdn-david-carbon-mirror-alternative",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 575,
-    "timeWeek": 248,
-    "timeMonth": 169,
-    "timeYear": 169,
-    "dailyMinutesDown": {}
+    "time": 168,
+    "timeDay": 359,
+    "timeWeek": 235,
+    "timeMonth": 168,
+    "timeYear": 168,
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "(Server) WorldUnited OFFICIAL",
@@ -187,11 +195,11 @@
     "icon": "https://favicons.githubusercontent.com/92.63.111.195",
     "slug": "server-world-evolved-ru",
     "status": "down",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 305,
     "timeDay": 357,
     "timeWeek": 300,
