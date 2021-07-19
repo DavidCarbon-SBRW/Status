@@ -178,7 +178,7 @@
     "slug": "server-nightriderz-horizon",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -187,7 +187,9 @@
     "timeWeek": 467,
     "timeMonth": 412,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-19": 0
+    }
   },
   {
     "name": "(Server) World Evolved RU",
