@@ -91,7 +91,7 @@
     "time": 185,
     "timeDay": 146,
     "timeWeek": 237,
-    "timeMonth": 185,
+    "timeMonth": 177,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -109,7 +109,7 @@
     "time": 298,
     "timeDay": 200,
     "timeWeek": 360,
-    "timeMonth": 298,
+    "timeMonth": 303,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2021-07-05": 52
@@ -129,7 +129,7 @@
     "time": 630,
     "timeDay": 540,
     "timeWeek": 678,
-    "timeMonth": 630,
+    "timeMonth": 633,
     "timeYear": 630,
     "dailyMinutesDown": {}
   },
@@ -147,7 +147,7 @@
     "time": 164,
     "timeDay": 175,
     "timeWeek": 158,
-    "timeMonth": 164,
+    "timeMonth": 167,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2021-07-05": 52
@@ -167,7 +167,7 @@
     "time": 149,
     "timeDay": 128,
     "timeWeek": 178,
-    "timeMonth": 149,
+    "timeMonth": 151,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -185,7 +185,7 @@
     "time": 405,
     "timeDay": 310,
     "timeWeek": 399,
-    "timeMonth": 405,
+    "timeMonth": 412,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2021-07-19": 61
@@ -205,7 +205,7 @@
     "time": 306,
     "timeDay": 275,
     "timeWeek": 328,
-    "timeMonth": 306,
+    "timeMonth": 308,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2021-07-01": 14,
@@ -226,7 +226,7 @@
     "time": 384,
     "timeDay": 342,
     "timeWeek": 418,
-    "timeMonth": 384,
+    "timeMonth": 389,
     "timeYear": 384,
     "dailyMinutesDown": {}
   },
@@ -236,18 +236,18 @@
     "icon": "https://favicons.githubusercontent.com/155.138.131.23",
     "slug": "server-underground-stage-beta",
     "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "44.68%",
-    "uptimeWeek": "92.10%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
+    "uptime": "97.80%",
+    "uptimeDay": "34.02%",
+    "uptimeWeek": "90.57%",
+    "uptimeMonth": "97.80%",
+    "uptimeYear": "97.80%",
     "time": 82,
-    "timeDay": 59,
-    "timeWeek": 95,
-    "timeMonth": 82,
+    "timeDay": 88,
+    "timeWeek": 98,
+    "timeMonth": 84,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2021-07-21": 124,
+      "2021-07-21": 278,
       "2021-07-20": 672
     }
   },
