@@ -26,7 +26,7 @@
     "slug": "api-david-carbon-main-list",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
@@ -36,6 +36,7 @@
     "timeMonth": 463,
     "timeYear": 463,
     "dailyMinutesDown": {
+      "2021-07-21": 0,
       "2021-07-05": 51
     }
   },
@@ -91,7 +92,7 @@
     "time": 185,
     "timeDay": 146,
     "timeWeek": 237,
-    "timeMonth": 177,
+    "timeMonth": 185,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -109,7 +110,7 @@
     "time": 298,
     "timeDay": 200,
     "timeWeek": 360,
-    "timeMonth": 303,
+    "timeMonth": 300,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2021-07-05": 52
@@ -129,7 +130,7 @@
     "time": 630,
     "timeDay": 540,
     "timeWeek": 678,
-    "timeMonth": 633,
+    "timeMonth": 634,
     "timeYear": 630,
     "dailyMinutesDown": {}
   },
@@ -147,7 +148,7 @@
     "time": 164,
     "timeDay": 175,
     "timeWeek": 158,
-    "timeMonth": 167,
+    "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2021-07-05": 52
@@ -167,7 +168,7 @@
     "time": 149,
     "timeDay": 128,
     "timeWeek": 178,
-    "timeMonth": 151,
+    "timeMonth": 152,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -185,7 +186,7 @@
     "time": 405,
     "timeDay": 310,
     "timeWeek": 399,
-    "timeMonth": 412,
+    "timeMonth": 417,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2021-07-19": 61
@@ -226,7 +227,7 @@
     "time": 384,
     "timeDay": 342,
     "timeWeek": 418,
-    "timeMonth": 389,
+    "timeMonth": 391,
     "timeYear": 384,
     "dailyMinutesDown": {}
   },
@@ -236,11 +237,11 @@
     "icon": "https://favicons.githubusercontent.com/155.138.131.23",
     "slug": "server-underground-stage-beta",
     "status": "down",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "34.02%",
     "uptimeWeek": "90.57%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "97.80%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
     "time": 82,
     "timeDay": 88,
     "timeWeek": 98,
@@ -265,7 +266,7 @@
     "time": 238,
     "timeDay": 182,
     "timeWeek": 251,
-    "timeMonth": 238,
+    "timeMonth": 235,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2021-07-06": 113
