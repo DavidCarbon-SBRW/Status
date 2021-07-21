@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/api.worldunited.gg",
     "slug": "api-world-united-gg-list",
     "status": "down",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 288,
     "timeDay": 219,
     "timeWeek": 308,
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/api-sbrw.davidcarbon.download",
     "slug": "api-david-carbon-main-list",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 463,
-    "timeDay": 424,
-    "timeWeek": 542,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "uptime": "99.59%",
+    "uptimeDay": "91.39%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 464,
+    "timeDay": 448,
+    "timeWeek": 533,
+    "timeMonth": 464,
+    "timeYear": 464,
     "dailyMinutesDown": {
-      "2021-07-21": 0,
+      "2021-07-21": 124,
       "2021-07-05": 51
     }
   },
@@ -92,7 +92,7 @@
     "time": 185,
     "timeDay": 146,
     "timeWeek": 237,
-    "timeMonth": 185,
+    "timeMonth": 180,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -110,7 +110,7 @@
     "time": 298,
     "timeDay": 200,
     "timeWeek": 360,
-    "timeMonth": 300,
+    "timeMonth": 299,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2021-07-05": 52
@@ -130,7 +130,7 @@
     "time": 630,
     "timeDay": 540,
     "timeWeek": 678,
-    "timeMonth": 634,
+    "timeMonth": 629,
     "timeYear": 630,
     "dailyMinutesDown": {}
   },
@@ -148,7 +148,7 @@
     "time": 164,
     "timeDay": 175,
     "timeWeek": 158,
-    "timeMonth": 164,
+    "timeMonth": 158,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2021-07-05": 52
@@ -168,7 +168,7 @@
     "time": 149,
     "timeDay": 128,
     "timeWeek": 178,
-    "timeMonth": 152,
+    "timeMonth": 150,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -186,7 +186,7 @@
     "time": 405,
     "timeDay": 310,
     "timeWeek": 399,
-    "timeMonth": 417,
+    "timeMonth": 415,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2021-07-19": 61
@@ -206,7 +206,7 @@
     "time": 306,
     "timeDay": 275,
     "timeWeek": 328,
-    "timeMonth": 308,
+    "timeMonth": 307,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2021-07-01": 14,
@@ -227,7 +227,7 @@
     "time": 384,
     "timeDay": 342,
     "timeWeek": 418,
-    "timeMonth": 391,
+    "timeMonth": 388,
     "timeYear": 384,
     "dailyMinutesDown": {}
   },
@@ -237,15 +237,15 @@
     "icon": "https://favicons.githubusercontent.com/155.138.131.23",
     "slug": "server-underground-stage-beta",
     "status": "down",
-    "uptime": "97.81%",
+    "uptime": "97.82%",
     "uptimeDay": "34.02%",
     "uptimeWeek": "90.57%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "97.82%",
     "time": 82,
     "timeDay": 88,
     "timeWeek": 98,
-    "timeMonth": 84,
+    "timeMonth": 83,
     "timeYear": 82,
     "dailyMinutesDown": {
       "2021-07-21": 278,
@@ -266,7 +266,7 @@
     "time": 238,
     "timeDay": 182,
     "timeWeek": 251,
-    "timeMonth": 235,
+    "timeMonth": 232,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2021-07-06": 113
