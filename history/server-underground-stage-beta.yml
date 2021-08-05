@@ -1,7 +1,7 @@
 url: http://155.138.131.23:8080/core/Engine.svc/GetServerInformation
 status: up
 code: 200
-responseTime: 119
-lastUpdated: 2021-08-04T12:33:36.582Z
+responseTime: 59
+lastUpdated: 2021-08-05T12:32:32.207Z
 startTime: Mon Jun 21 2021 03:46:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
