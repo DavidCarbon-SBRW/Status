@@ -263,18 +263,18 @@
     "icon": "https://favicons.githubusercontent.com/worldonline.pl",
     "slug": "server-world-online",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 251,
+    "uptime": "99.55%",
+    "uptimeDay": "84.75%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.55%",
+    "time": 250,
     "timeDay": 187,
-    "timeWeek": 240,
-    "timeMonth": 270,
-    "timeYear": 251,
+    "timeWeek": 234,
+    "timeMonth": 268,
+    "timeYear": 250,
     "dailyMinutesDown": {
-      "2021-08-10": 0,
+      "2021-08-10": 220,
       "2021-07-06": 113
     }
   }
