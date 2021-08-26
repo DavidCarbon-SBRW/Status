@@ -30,8 +30,8 @@ sites:
     url: https://core.sparkserver.io/soapbox-race-core/Engine.svc/GetServerInformation
   - name: (Server) UNDERGROUND STAGE - BETA
     url: http://155.138.131.23:8080/core/Engine.svc/GetServerInformation
-  - name: (Server) WorldOnline
-    url: http://worldonline.pl:2137/Engine.svc/GetServerInformation
+  - name: (Server) WorldOnline.PL
+    url: http://worldonline.pl:8080/Engine.svc/GetServerInformation
 
 status-website:
   theme: night 
