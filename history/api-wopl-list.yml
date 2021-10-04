@@ -1,7 +1,7 @@
 url: http://worldonline.pl/serverlist.json
-status: down
-code: 502
-responseTime: 232
-lastUpdated: 2021-10-03T12:30:23.939Z
+status: up
+code: 200
+responseTime: 892
+lastUpdated: 2021-10-04T12:31:24.894Z
 startTime: Mon Jun 21 2021 18:37:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
