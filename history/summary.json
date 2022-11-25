@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.worldunited.gg.ico",
     "slug": "api-world-united-gg-list",
     "status": "down",
-    "uptime": "93.70%",
+    "uptime": "93.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.38%",
+    "uptimeYear": "97.65%",
     "time": 313,
-    "timeDay": 255,
-    "timeWeek": 227,
-    "timeMonth": 227,
+    "timeDay": 176,
+    "timeWeek": 216,
+    "timeMonth": 225,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2022-07-01": 54,
@@ -29,8 +29,7 @@
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
-      "2021-11-26": 1440,
-      "2021-11-25": 1440
+      "2021-11-26": 1440
     }
   },
   {
@@ -45,10 +44,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 509,
-    "timeDay": 915,
-    "timeWeek": 525,
-    "timeMonth": 471,
-    "timeYear": 506,
+    "timeDay": 321,
+    "timeWeek": 506,
+    "timeMonth": 466,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2022-09-03": 72,
       "2022-07-02": 52,
@@ -72,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 254,
-    "timeDay": 183,
-    "timeWeek": 170,
-    "timeMonth": 189,
-    "timeYear": 260,
+    "time": 253,
+    "timeDay": 38,
+    "timeWeek": 140,
+    "timeMonth": 182,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2022-07-01": 54,
       "2022-06-30": 48,
@@ -90,18 +89,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldonline.pl.ico",
     "slug": "api-wopl-list",
     "status": "down",
-    "uptime": "23.31%",
+    "uptime": "23.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "3.71%",
-    "time": 400,
-    "timeDay": 2072,
-    "timeWeek": 1731,
-    "timeMonth": 1574,
-    "timeYear": 481,
+    "time": 467,
+    "timeDay": 11813,
+    "timeWeek": 3090,
+    "timeMonth": 2598,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2022-11-24": 153,
+      "2022-11-25": 159,
+      "2022-11-24": 1440,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
@@ -452,8 +452,7 @@
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
-      "2021-11-26": 1440,
-      "2021-11-25": 1440
+      "2021-11-26": 1440
     }
   },
   {
@@ -467,10 +466,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 193,
-    "timeDay": 78,
-    "timeWeek": 156,
-    "timeMonth": 182,
+    "time": 192,
+    "timeDay": 111,
+    "timeWeek": 159,
+    "timeMonth": 181,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2022-07-01": 54
@@ -488,8 +487,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 371,
-    "timeDay": 388,
-    "timeWeek": 126,
+    "timeDay": 35,
+    "timeWeek": 125,
     "timeMonth": 176,
     "timeYear": 360,
     "dailyMinutesDown": {
@@ -510,10 +509,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 960,
-    "timeDay": 2023,
-    "timeWeek": 1292,
-    "timeMonth": 1140,
-    "timeYear": 1040,
+    "timeDay": 808,
+    "timeWeek": 1218,
+    "timeMonth": 1121,
+    "timeYear": 1039,
     "dailyMinutesDown": {
       "2022-09-09": 66,
       "2022-07-27": 84,
@@ -533,10 +532,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 251,
-    "timeDay": 34,
-    "timeWeek": 143,
-    "timeMonth": 139,
-    "timeYear": 267,
+    "timeDay": 39,
+    "timeWeek": 141,
+    "timeMonth": 134,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2022-07-03": 110,
       "2022-07-01": 54,
@@ -558,9 +557,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 154,
-    "timeDay": 147,
-    "timeWeek": 136,
-    "timeMonth": 138,
+    "timeDay": 124,
+    "timeWeek": 127,
+    "timeMonth": 140,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2022-10-22": 358,
@@ -582,9 +581,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 569,
-    "timeDay": 660,
-    "timeWeek": 801,
-    "timeMonth": 767,
+    "timeDay": 608,
+    "timeWeek": 793,
+    "timeMonth": 763,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2022-09-09": 65,
@@ -606,8 +605,8 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.66%",
     "time": 334,
-    "timeDay": 407,
-    "timeWeek": 349,
+    "timeDay": 250,
+    "timeWeek": 327,
     "timeMonth": 303,
     "timeYear": 338,
     "dailyMinutesDown": {
@@ -649,8 +648,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 427,
-    "timeDay": 528,
-    "timeWeek": 443,
+    "timeDay": 292,
+    "timeWeek": 412,
     "timeMonth": 398,
     "timeYear": 421,
     "dailyMinutesDown": {
@@ -664,7 +663,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/155.138.131.23.ico",
     "slug": "server-underground-stage-beta",
     "status": "down",
-    "uptime": "21.46%",
+    "uptime": "21.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -675,7 +674,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-24": 154,
+      "2022-11-25": 159,
+      "2022-11-24": 1440,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
@@ -1038,8 +1038,7 @@
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
-      "2021-11-26": 1440,
-      "2021-11-25": 1440
+      "2021-11-26": 1440
     }
   },
   {
@@ -1048,7 +1047,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldonline.pl.ico",
     "slug": "server-world-online-pl",
     "status": "down",
-    "uptime": "6.44%",
+    "uptime": "6.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1059,7 +1058,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-24": 154,
+      "2022-11-25": 159,
+      "2022-11-24": 1440,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
@@ -1422,8 +1422,7 @@
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
-      "2021-11-26": 1440,
-      "2021-11-25": 1440
+      "2021-11-26": 1440
     }
   }
 ]
