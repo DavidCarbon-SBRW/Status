@@ -82,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldonline.pl.ico",
     "slug": "api-wopl-list",
     "status": "down",
-    "uptime": "21.62%",
+    "uptime": "21.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -93,7 +93,8 @@
     "timeMonth": 1972,
     "timeYear": 1678,
     "dailyMinutesDown": {
-      "2023-01-03": 1226,
+      "2023-01-04": 137,
+      "2023-01-03": 1440,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
@@ -456,8 +457,7 @@
       "2022-01-08": 1440,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
-      "2022-01-05": 1440,
-      "2022-01-04": 1440
+      "2022-01-05": 1440
     }
   },
   {
@@ -669,7 +669,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/155.138.131.23.ico",
     "slug": "server-underground-stage-beta",
     "status": "down",
-    "uptime": "19.90%",
+    "uptime": "19.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -680,7 +680,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-03": 1227,
+      "2023-01-04": 137,
+      "2023-01-03": 1440,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
@@ -1043,8 +1044,7 @@
       "2022-01-08": 1440,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
-      "2022-01-05": 1440,
-      "2022-01-04": 1440
+      "2022-01-05": 1440
     }
   },
   {
@@ -1053,11 +1053,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldonline.pl.ico",
     "slug": "server-world-online-pl",
     "status": "down",
-    "uptime": "5.91%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.01%",
+    "uptime": "5.95%",
+    "uptimeDay": "24.38%",
+    "uptimeWeek": "3.48%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptimeYear": "0.07%",
     "time": 264,
     "timeDay": 483,
     "timeWeek": 483,
@@ -1427,8 +1427,7 @@
       "2022-01-08": 1440,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
-      "2022-01-05": 1440,
-      "2022-01-04": 1440
+      "2022-01-05": 1440
     }
   }
 ]
