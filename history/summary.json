@@ -82,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldonline.pl.ico",
     "slug": "api-wopl-list",
     "status": "down",
-    "uptime": "21.13%",
+    "uptime": "21.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -93,7 +93,8 @@
     "timeMonth": 2198,
     "timeYear": 2111,
     "dailyMinutesDown": {
-      "2023-01-16": 995,
+      "2023-01-17": 137,
+      "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
@@ -456,8 +457,7 @@
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
-      "2022-01-18": 1440,
-      "2022-01-17": 1440
+      "2022-01-18": 1440
     }
   },
   {
@@ -672,7 +672,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/155.138.131.23.ico",
     "slug": "server-underground-stage-beta",
     "status": "down",
-    "uptime": "19.46%",
+    "uptime": "19.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -683,7 +683,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-16": 995,
+      "2023-01-17": 138,
+      "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
@@ -1046,8 +1047,7 @@
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
-      "2022-01-18": 1440,
-      "2022-01-17": 1440
+      "2022-01-18": 1440
     }
   },
   {
@@ -1056,11 +1056,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldonline.pl.ico",
     "slug": "server-world-online-pl",
     "status": "down",
-    "uptime": "8.29%",
+    "uptime": "8.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.30%",
-    "uptimeYear": "3.52%",
+    "uptimeMonth": "41.63%",
+    "uptimeYear": "3.63%",
     "time": 320,
     "timeDay": 434,
     "timeWeek": 375,
@@ -1417,8 +1417,7 @@
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
-      "2022-01-18": 1440,
-      "2022-01-17": 1440
+      "2022-01-18": 1440
     }
   }
 ]
