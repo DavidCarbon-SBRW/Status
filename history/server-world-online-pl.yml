@@ -1,7 +1,7 @@
 url: http://worldonline.pl:8080/Engine.svc/GetServerInformation
 status: up
 code: 200
-responseTime: 451
-lastUpdated: 2023-01-22T12:33:43.366Z
+responseTime: 345
+lastUpdated: 2023-01-23T12:37:07.119Z
 startTime: Thu Aug 26 2021 22:49:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
