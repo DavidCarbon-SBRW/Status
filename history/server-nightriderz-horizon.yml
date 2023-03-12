@@ -1,7 +1,7 @@
 url: http://horizon.nightriderz.world:8080/Engine.svc/GetServerInformation
 status: up
 code: 200
-responseTime: 748
-lastUpdated: 2023-03-11T12:33:39.809Z
+responseTime: 671
+lastUpdated: 2023-03-12T12:34:09.324Z
 startTime: Mon Jun 21 2021 03:46:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
