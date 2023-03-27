@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.worldunited.gg.ico",
     "slug": "api-world-united-gg-list",
     "status": "down",
-    "uptime": "93.82%",
+    "uptime": "93.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "20.90%",
-    "uptimeMonth": "81.80%",
-    "uptimeYear": "97.69%",
+    "uptimeWeek": "19.27%",
+    "uptimeMonth": "81.42%",
+    "uptimeYear": "97.66%",
     "time": 298,
     "timeDay": 232,
     "timeWeek": 260,
     "timeMonth": 251,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-03-26": 1403,
+      "2023-03-27": 127,
+      "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
@@ -87,7 +88,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldonline.pl.ico",
     "slug": "api-wopl-list",
     "status": "down",
-    "uptime": "18.86%",
+    "uptime": "18.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -98,7 +99,8 @@
     "timeMonth": 2004,
     "timeYear": 2069,
     "dailyMinutesDown": {
-      "2023-03-26": 1403,
+      "2023-03-27": 127,
+      "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
@@ -461,8 +463,7 @@
       "2022-03-31": 1440,
       "2022-03-30": 1440,
       "2022-03-29": 1440,
-      "2022-03-28": 1440,
-      "2022-03-27": 1440
+      "2022-03-28": 1440
     }
   },
   {
@@ -656,18 +657,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.sparkserver.io.ico",
     "slug": "server-sparkserver",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "88.59%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.97%",
     "time": 415,
     "timeDay": 345,
     "timeWeek": 354,
     "timeMonth": 398,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2023-03-26": 0
+      "2023-03-27": 127,
+      "2023-03-26": 37
     }
   },
   {
@@ -687,7 +689,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-26": 1403,
+      "2023-03-27": 127,
+      "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
@@ -1050,8 +1053,7 @@
       "2022-03-31": 1440,
       "2022-03-30": 1440,
       "2022-03-29": 1440,
-      "2022-03-28": 1440,
-      "2022-03-27": 1440
+      "2022-03-28": 1440
     }
   },
   {
@@ -1071,7 +1073,8 @@
     "timeMonth": 0,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2023-03-26": 1403,
+      "2023-03-27": 127,
+      "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
@@ -1390,8 +1393,7 @@
       "2022-03-31": 1440,
       "2022-03-30": 1440,
       "2022-03-29": 1440,
-      "2022-03-28": 1440,
-      "2022-03-27": 1440
+      "2022-03-28": 1440
     }
   }
 ]
