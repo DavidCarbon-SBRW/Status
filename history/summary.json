@@ -6,12 +6,12 @@
     "slug": "api-world-united-gg-list",
     "status": "down",
     "uptime": "93.54%",
-    "uptimeDay": "91.62%",
-    "uptimeWeek": "13.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "15.95%",
     "uptimeMonth": "75.22%",
     "uptimeYear": "97.14%",
     "time": 297,
-    "timeDay": 220,
+    "timeDay": 227,
     "timeWeek": 237,
     "timeMonth": 246,
     "timeYear": 304,
@@ -48,7 +48,7 @@
     "time": 489,
     "timeDay": 382,
     "timeWeek": 318,
-    "timeMonth": 385,
+    "timeMonth": 387,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2023-02-07": 75,
@@ -75,7 +75,7 @@
     "time": 257,
     "timeDay": 504,
     "timeWeek": 250,
-    "timeMonth": 230,
+    "timeMonth": 231,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2023-02-07": 75,
@@ -92,15 +92,16 @@
     "uptime": "18.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1523,
     "timeDay": 1985,
     "timeWeek": 2509,
-    "timeMonth": 2132,
+    "timeMonth": 2130,
     "timeYear": 2097,
     "dailyMinutesDown": {
-      "2023-03-29": 1282,
+      "2023-03-30": 131,
+      "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
@@ -463,8 +464,7 @@
       "2022-04-03": 1440,
       "2022-04-02": 1440,
       "2022-04-01": 1440,
-      "2022-03-31": 1440,
-      "2022-03-30": 1440
+      "2022-03-31": 1440
     }
   },
   {
@@ -481,7 +481,7 @@
     "time": 184,
     "timeDay": 252,
     "timeWeek": 219,
-    "timeMonth": 221,
+    "timeMonth": 223,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2022-07-01": 54
@@ -501,7 +501,7 @@
     "time": 327,
     "timeDay": 77,
     "timeWeek": 268,
-    "timeMonth": 254,
+    "timeMonth": 247,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2022-07-01": 54,
@@ -522,7 +522,7 @@
     "time": 1063,
     "timeDay": 1458,
     "timeWeek": 1616,
-    "timeMonth": 1248,
+    "timeMonth": 1242,
     "timeYear": 1085,
     "dailyMinutesDown": {
       "2023-03-29": 57,
@@ -545,7 +545,7 @@
     "time": 403,
     "timeDay": 1583,
     "timeWeek": 2104,
-    "timeMonth": 731,
+    "timeMonth": 710,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2023-03-26": 56,
@@ -601,7 +601,7 @@
     "time": 647,
     "timeDay": 529,
     "timeWeek": 647,
-    "timeMonth": 678,
+    "timeMonth": 671,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2023-03-25": 65,
@@ -626,7 +626,7 @@
     "time": 331,
     "timeDay": 322,
     "timeWeek": 316,
-    "timeMonth": 336,
+    "timeMonth": 337,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2023-01-30": 76,
@@ -659,14 +659,14 @@
     "slug": "server-sparkserver",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "36.33%",
+    "uptimeDay": "56.37%",
     "uptimeWeek": "66.41%",
     "uptimeMonth": "92.27%",
     "uptimeYear": "99.36%",
     "time": 415,
     "timeDay": 396,
     "timeWeek": 384,
-    "timeMonth": 396,
+    "timeMonth": 399,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2023-03-29": 760,
@@ -684,7 +684,7 @@
     "uptime": "17.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -692,7 +692,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-29": 1283,
+      "2023-03-30": 131,
+      "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
@@ -1055,8 +1056,7 @@
       "2022-04-03": 1440,
       "2022-04-02": 1440,
       "2022-04-01": 1440,
-      "2022-03-31": 1440,
-      "2022-03-30": 1440
+      "2022-03-31": 1440
     }
   },
   {
@@ -1065,10 +1065,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldonline.pl.ico",
     "slug": "server-world-online-pl",
     "status": "down",
-    "uptime": "12.88%",
+    "uptime": "12.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "12.45%",
     "time": 408,
     "timeDay": 0,
@@ -1076,7 +1076,8 @@
     "timeMonth": 0,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2023-03-29": 1283,
+      "2023-03-30": 131,
+      "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
@@ -1395,8 +1396,7 @@
       "2022-04-03": 1440,
       "2022-04-02": 1440,
       "2022-04-01": 1440,
-      "2022-03-31": 1440,
-      "2022-03-30": 1440
+      "2022-03-31": 1440
     }
   }
 ]
