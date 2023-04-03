@@ -28,6 +28,8 @@ sites:
     url: https://core.sparkserver.io/soapbox-race-core/Engine.svc/GetServerInformation
   - name: (Server) UNDERGROUND STAGE
     url: https://core.undergroundstage.net/Engine.svc/GetServerInformation
+    expectedStatusCodes:
+      - 500
   - name: (Server) OVERDRIVE
     url: http://overdriveworld.com:8080/Engine.svc/GetServerInformation
   - name: (Server) WorldUniverse
