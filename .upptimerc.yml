@@ -1,7 +1,7 @@
 # Change these first
 owner: DavidCarbon-SBRW # Your GitHub organization or username, where this repository lives
 repo: Status # The name of this repository
-user-agent: GameLauncherReborn 2.1.6.3
+user-agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)
 
 sites:
   - name: (API) WorldUnited.gg List
