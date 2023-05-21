@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.worldunited.gg.ico",
     "slug": "api-world-united-gg-list",
     "status": "up",
-    "uptime": "93.90%",
+    "uptime": "93.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.43%",
@@ -31,8 +31,7 @@
       "2023-01-21": 54,
       "2022-07-01": 54,
       "2022-06-21": 53,
-      "2022-05-22": 448,
-      "2022-05-21": 806
+      "2022-05-22": 448
     }
   },
   {
@@ -220,8 +219,7 @@
     "dailyMinutesDown": {
       "2023-03-25": 65,
       "2023-02-22": 68,
-      "2022-09-09": 65,
-      "2022-05-21": 54
+      "2022-09-09": 65
     }
   },
   {
@@ -331,11 +329,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/209.97.187.156.ico",
     "slug": "server-development-world-united-development",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.43%",
-    "uptimeYear": "98.46%",
+    "uptimeYear": "98.48%",
     "time": 200,
     "timeDay": 294,
     "timeWeek": 214,
@@ -352,11 +350,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.thelab.nightriderz.world.ico",
     "slug": "server-development-nightriderz-the-lab",
     "status": "up",
-    "uptime": "92.65%",
+    "uptime": "92.71%",
     "uptimeDay": "62.84%",
     "uptimeWeek": "94.69%",
     "uptimeMonth": "98.66%",
-    "uptimeYear": "92.65%",
+    "uptimeYear": "92.71%",
     "time": 1021,
     "timeDay": 1182,
     "timeWeek": 1221,
