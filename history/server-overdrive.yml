@@ -1,7 +1,7 @@
 url: http://overdriveworld.com:8080/Engine.svc/GetServerInformation
 status: up
 code: 200
-responseTime: 147
-lastUpdated: 2023-06-05T12:37:44.626Z
+responseTime: 68
+lastUpdated: 2023-06-06T12:35:39.048Z
 startTime: Thu Mar 30 2023 20:08:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
