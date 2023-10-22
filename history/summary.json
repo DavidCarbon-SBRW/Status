@@ -189,8 +189,7 @@
       "2023-01-09": 277,
       "2023-01-06": 69,
       "2023-01-01": 385,
-      "2022-12-31": 159,
-      "2022-10-22": 358
+      "2022-12-31": 159
     }
   },
   {
@@ -303,11 +302,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/overdriveworld.com.ico",
     "slug": "server-overdrive",
     "status": "up",
-    "uptime": "95.86%",
+    "uptime": "95.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.86%",
+    "uptimeYear": "95.87%",
     "time": 120,
     "timeDay": 98,
     "timeWeek": 102,
@@ -361,11 +360,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.thelab.nightriderz.world.ico",
     "slug": "server-development-nightriderz-the-lab",
     "status": "up",
-    "uptime": "96.69%",
+    "uptime": "96.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "58.36%",
     "uptimeMonth": "90.42%",
-    "uptimeYear": "96.69%",
+    "uptimeYear": "96.70%",
     "time": 1045,
     "timeDay": 1271,
     "timeWeek": 960,
