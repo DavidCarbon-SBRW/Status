@@ -1,7 +1,7 @@
 url: http://92.63.111.195:8680/soapbox-race-core/Engine.svc/GetServerInformation
 status: up
 code: 200
-responseTime: 368
-lastUpdated: 2023-11-17T12:33:26.818Z
+responseTime: 268
+lastUpdated: 2023-11-18T12:30:15.334Z
 startTime: 2021-06-21T03:46:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
