@@ -286,10 +286,10 @@
     "url": "https://core.undergroundstage.net/Engine.svc/GetServerInformation",
     "icon": "https://icons.duckduckgo.com/ip3/core.undergroundstage.net.ico",
     "slug": "server-underground-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
@@ -297,7 +297,9 @@
     "timeWeek": 170,
     "timeMonth": 176,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-06": 1
+    }
   },
   {
     "name": "(Server) OVERDRIVE",
@@ -363,11 +365,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.thelab.nightriderz.world.ico",
     "slug": "server-development-nightriderz-the-lab",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.29%",
+    "uptimeYear": "97.30%",
     "time": 1056,
     "timeDay": 731,
     "timeWeek": 1025,
