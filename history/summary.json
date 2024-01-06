@@ -190,8 +190,7 @@
       "2023-01-28": 45,
       "2023-01-23": 96,
       "2023-01-12": 241,
-      "2023-01-09": 277,
-      "2023-01-06": 69
+      "2023-01-09": 277
     }
   },
   {
@@ -371,11 +370,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.thelab.nightriderz.world.ico",
     "slug": "server-development-nightriderz-the-lab",
     "status": "up",
-    "uptime": "96.74%",
-    "uptimeDay": "0.04%",
+    "uptime": "96.75%",
+    "uptimeDay": "19.12%",
     "uptimeWeek": "66.11%",
     "uptimeMonth": "92.20%",
-    "uptimeYear": "96.74%",
+    "uptimeYear": "96.75%",
     "time": 1060,
     "timeDay": 1117,
     "timeWeek": 1158,
