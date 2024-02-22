@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.05%",
+    "uptimeYear": "97.12%",
     "time": 279,
     "timeDay": 195,
     "timeWeek": 252,
@@ -29,8 +29,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 811,
-      "2023-02-22": 1346
+      "2023-03-21": 811
     }
   },
   {
@@ -121,7 +120,7 @@
     "status": "up",
     "uptime": "98.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.15%",
+    "uptimeWeek": "65.02%",
     "uptimeMonth": "67.38%",
     "uptimeYear": "97.23%",
     "time": 1142,
@@ -218,8 +217,7 @@
       "2023-12-21": 117,
       "2023-10-16": 74,
       "2023-09-28": 126,
-      "2023-03-25": 65,
-      "2023-02-22": 68
+      "2023-03-25": 65
     }
   },
   {
@@ -317,11 +315,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/overdriveworld.com.ico",
     "slug": "server-overdrive",
     "status": "up",
-    "uptime": "96.80%",
+    "uptime": "96.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.43%",
-    "uptimeYear": "96.80%",
+    "uptimeYear": "96.81%",
     "time": 131,
     "timeDay": 183,
     "timeWeek": 149,
@@ -379,7 +377,7 @@
     "slug": "server-development-nightriderz-the-lab",
     "status": "up",
     "uptime": "96.73%",
-    "uptimeDay": "0.04%",
+    "uptimeDay": "27.16%",
     "uptimeWeek": "81.67%",
     "uptimeMonth": "94.83%",
     "uptimeYear": "96.73%",
