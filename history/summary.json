@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.worldunited.gg.ico",
     "slug": "api-world-united-gg-list",
     "status": "up",
-    "uptime": "92.67%",
+    "uptime": "92.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -74,9 +74,7 @@
     "timeWeek": 540,
     "timeMonth": 611,
     "timeYear": 561,
-    "dailyMinutesDown": {
-      "2023-07-26": 75
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "(API) DavidCarbon - Backup List",
@@ -94,9 +92,7 @@
     "timeWeek": 247,
     "timeMonth": 294,
     "timeYear": 260,
-    "dailyMinutesDown": {
-      "2023-07-26": 75
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "(CDN) WorldUnited.gg Mirror",
@@ -132,9 +128,7 @@
     "timeWeek": 80,
     "timeMonth": 166,
     "timeYear": 237,
-    "dailyMinutesDown": {
-      "2023-07-26": 74
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "(CDN) NightRiderz Mirror",
