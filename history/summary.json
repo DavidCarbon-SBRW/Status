@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.worldunited.gg.ico",
     "slug": "api-world-united-gg-list",
     "status": "up",
-    "uptime": "92.91%",
+    "uptime": "92.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -269,8 +269,7 @@
       "2024-01-13": 119,
       "2023-12-29": 122,
       "2023-12-05": 61,
-      "2023-09-10": 62,
-      "2023-09-02": 46
+      "2023-09-10": 62
     }
   },
   {
@@ -299,7 +298,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.undergroundstage.net.ico",
     "slug": "server-underground-stage",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
