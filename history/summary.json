@@ -116,18 +116,20 @@
     "url": "http://g-sbrw.davidcarbon.download/en/index.xml",
     "icon": "https://icons.duckduckgo.com/ip3/g-sbrw.davidcarbon.download.ico",
     "slug": "cdn-david-carbon-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 77,
-    "timeWeek": 263,
-    "timeMonth": 203,
-    "timeYear": 219,
-    "dailyMinutesDown": {}
+    "time": 229,
+    "timeDay": 218,
+    "timeWeek": 275,
+    "timeMonth": 208,
+    "timeYear": 220,
+    "dailyMinutesDown": {
+      "2024-11-14": 0
+    }
   },
   {
     "name": "(CDN) NightRiderz Mirror",
