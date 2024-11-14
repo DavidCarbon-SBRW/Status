@@ -116,19 +116,19 @@
     "url": "http://g-sbrw.davidcarbon.download/en/index.xml",
     "icon": "https://icons.duckduckgo.com/ip3/g-sbrw.davidcarbon.download.ico",
     "slug": "cdn-david-carbon-mirror",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "89.92%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.97%",
     "time": 229,
-    "timeDay": 327,
-    "timeWeek": 310,
-    "timeMonth": 227,
-    "timeYear": 222,
+    "timeDay": 288,
+    "timeWeek": 291,
+    "timeMonth": 222,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-11-14": 95
+      "2024-11-14": 146
     }
   },
   {
