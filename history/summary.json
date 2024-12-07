@@ -297,10 +297,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.undergroundstage.net.ico",
     "slug": "server-underground-stage",
     "status": "down",
-    "uptime": "98.71%",
-    "uptimeDay": "45.66%",
-    "uptimeWeek": "92.24%",
-    "uptimeMonth": "98.21%",
+    "uptime": "98.68%",
+    "uptimeDay": "29.42%",
+    "uptimeWeek": "89.92%",
+    "uptimeMonth": "97.68%",
     "uptimeYear": "97.96%",
     "time": 170,
     "timeDay": 0,
@@ -308,14 +308,14 @@
     "timeMonth": 170,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-12-06": 783,
+      "2024-12-07": 146,
+      "2024-12-06": 870,
       "2023-12-14": 358,
       "2023-12-13": 867,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
-      "2023-12-09": 1440,
-      "2023-12-08": 1440
+      "2023-12-09": 1440
     }
   },
   {
@@ -370,7 +370,7 @@
     "slug": "server-development-nightriderz-the-lab",
     "status": "up",
     "uptime": "96.09%",
-    "uptimeDay": "0.04%",
+    "uptimeDay": "16.27%",
     "uptimeWeek": "67.24%",
     "uptimeMonth": "87.52%",
     "uptimeYear": "95.25%",
