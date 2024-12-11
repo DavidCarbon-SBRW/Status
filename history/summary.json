@@ -298,10 +298,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.undergroundstage.net.ico",
     "slug": "server-underground-stage",
     "status": "down",
-    "uptime": "98.12%",
+    "uptime": "98.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "39.26%",
-    "uptimeMonth": "86.02%",
+    "uptimeWeek": "32.69%",
+    "uptimeMonth": "84.51%",
     "uptimeYear": "97.96%",
     "time": 170,
     "timeDay": 0,
@@ -309,14 +309,14 @@
     "timeMonth": 171,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-12-10": 932,
+      "2024-12-11": 155,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 870,
       "2023-12-14": 358,
-      "2023-12-13": 867,
-      "2023-12-12": 1440
+      "2023-12-13": 867
     }
   },
   {
