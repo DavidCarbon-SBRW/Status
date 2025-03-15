@@ -6,34 +6,79 @@ user-agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/S
 sites:
   - name: (API) WorldUnited.gg List
     url: https://api.worldunited.gg/serverlist.json
+    slug: api-wugg
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: (API) DavidCarbon - Main List
     url: https://api-sbrw.davidcarbon.download/serverlist.json
+    slug: api-dc-main
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: (API) DavidCarbon - Backup List
     url: http://api2-sbrw.davidcarbon.download/serverlist.json
+    slug: api-dc-bkup
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: (CDN) WorldUnited.gg Mirror
     url: https://cdn.worldunited.gg/en/index.xml
+    slug: cdn-wugg
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: (CDN) DavidCarbon Mirror
     url: http://g-sbrw.davidcarbon.download/en/index.xml
+    slug: cdn-dc
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: (CDN) NightRiderz Mirror
     url: https://cdn.nightriderz.world/nfsw/en/index.xml
+    slug: cdn-nr
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: (CDN) DavidCarbon Mirror - Alternative
     url: http://g2-sbrw.davidcarbon.download/en/index.xml
+    slug: cdn-dc-alt
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: (Server) WorldUnited OFFICIAL
     url: http://game.worldunited.gg:8080/Engine.svc/GetServerInformation
+    slug: server-wugg
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: '(Server) NIGHTRIDERZ: Horizon'
     url: https://horizon.nightriderz.world/Engine.svc/GetServerInformation
+    slug: server-nr
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: (Server) World Evolved RU
     url: http://92.63.111.195:8680/soapbox-race-core/Engine.svc/GetServerInformation
+    slug: server-we
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: (Server) Sparkserver
     url: https://core.sparkserver.io/soapbox-race-core/Engine.svc/GetServerInformation
+    slug: server-spark
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: (Server) UNDERGROUND STAGE
     url: https://core.undergroundstage.net/Engine.svc/GetServerInformation
+    slug: server-us
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: (Server) OVERDRIVE
     url: http://overdriveworld.com:8080/Engine.svc/GetServerInformation
+    slug: server-od
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: (Server Development) WorldUnited DEVELOPMENT
     url: http://209.97.187.156:8080/Engine.svc/GetServerInformation
+    slug: server-wugg-dev
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
   - name: '(Server Development) NIGHTRIDERZ: The Lab'
     url: https://core.thelab.nightriderz.world/Engine.svc/GetServerInformation
+    slug: server-nr-dev
+    headers:
+      - "User-Agent: SBRW Launcher Status Checker (+https://github.com/DavidCarbon-SBRW/Status)"
 
 status-website:
   theme: night 
@@ -47,9 +92,9 @@ status-website:
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Home
-      href: https://sbrw.davidcarbon.download
+      href: https://sbrw.dev
     - title: Download
-      href: https://sbrw.davidcarbon.download/download
+      href: https://sbrw.dev/download
     - title: Status
       href: /
     - title: Source Code
