@@ -64,6 +64,9 @@ sites:
     slug: server-us
     headers:
       - $USER_AGENT
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: (Server) OVERDRIVE
     url: http://overdriveworld.com:8080/Engine.svc/GetServerInformation
     slug: server-od
