@@ -170,19 +170,19 @@
     "url": "http://92.63.111.195:8680/soapbox-race-core/Engine.svc/GetServerInformation",
     "icon": "https://icons.duckduckgo.com/ip3/92.63.111.195.ico",
     "slug": "server-we",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 247,
-    "timeWeek": 303,
-    "timeMonth": 307,
-    "timeYear": 307,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 306,
+    "timeDay": 267,
+    "timeWeek": 301,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {
-      "2025-03-26": 0
+      "2025-03-26": 12
     }
   },
   {
