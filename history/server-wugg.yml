@@ -1,7 +1,7 @@
 url: http://game.worldunited.gg:8080/Engine.svc/GetServerInformation
 status: up
 code: 200
-responseTime: 250
-lastUpdated: 2025-04-16T12:48:36.499Z
+responseTime: 349
+lastUpdated: 2025-04-17T12:47:59.626Z
 startTime: 2025-03-15T08:31:16.693Z
 generator: Upptime <https://github.com/upptime/upptime>
