@@ -30,7 +30,7 @@ sites:
     headers:
       - $USER_AGENT
   - name: (CDN) NightRiderz Mirror
-    url: https://cdn.nightriderz.world/nfsw/en/index.xml
+    url: https://game.cdn.nightriderz.world/en/index.xml
     slug: cdn-nr
     headers:
       - $USER_AGENT
