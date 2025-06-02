@@ -1,7 +1,7 @@
 url: http://209.97.187.156:8080/Engine.svc/GetServerInformation
 status: up
 code: 200
-responseTime: 154
-lastUpdated: 2025-06-01T12:47:49.010Z
+responseTime: 226
+lastUpdated: 2025-06-02T12:51:42.175Z
 startTime: 2025-03-15T08:31:22.569Z
 generator: Upptime <https://github.com/upptime/upptime>
