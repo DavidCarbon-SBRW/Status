@@ -1,7 +1,7 @@
 url: https://api-sbrw.davidcarbon.download/serverlist.json
-status: down
-code: 500
-responseTime: 6172
-lastUpdated: 2025-06-12T18:36:58.253Z
+status: up
+code: 200
+responseTime: 1138
+lastUpdated: 2025-06-12T18:55:02.226Z
 startTime: 2025-03-15T08:31:11.931Z
 generator: Upptime <https://github.com/upptime/upptime>
