@@ -1,7 +1,7 @@
 url: https://core.sparkserver.io/soapbox-race-core/Engine.svc/GetServerInformation
 status: up
 code: 200
-responseTime: 609
-lastUpdated: 2025-06-28T12:47:36.758Z
+responseTime: 450
+lastUpdated: 2025-06-29T12:48:13.948Z
 startTime: 2025-03-15T08:31:19.212Z
 generator: Upptime <https://github.com/upptime/upptime>
