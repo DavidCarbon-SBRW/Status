@@ -266,9 +266,9 @@
     "url": "http://209.97.187.156:8080/Engine.svc/GetServerInformation",
     "icon": "https://icons.duckduckgo.com/ip3/209.97.187.156.ico",
     "slug": "server-wugg-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -277,7 +277,9 @@
     "timeWeek": 194,
     "timeMonth": 209,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "(Server Development) NIGHTRIDERZ: The Lab",
