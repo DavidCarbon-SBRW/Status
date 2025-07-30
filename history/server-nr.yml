@@ -1,7 +1,7 @@
 url: https://horizon.nightriderz.world/Engine.svc/GetServerInformation
-status: down
-code: 502
-responseTime: 385
-lastUpdated: 2025-07-30T03:53:40.642Z
+status: up
+code: 200
+responseTime: 383
+lastUpdated: 2025-07-30T08:39:42.665Z
 startTime: 2025-03-15T08:31:17.170Z
 generator: Upptime <https://github.com/upptime/upptime>
