@@ -223,19 +223,19 @@
     "url": "https://core.sparkserver.io/soapbox-race-core/Engine.svc/GetServerInformation",
     "icon": "https://icons.duckduckgo.com/ip3/core.sparkserver.io.ico",
     "slug": "server-spark",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 468,
-    "timeDay": 426,
-    "timeWeek": 481,
-    "timeMonth": 477,
-    "timeYear": 468,
+    "time": 467,
+    "timeDay": 399,
+    "timeWeek": 467,
+    "timeMonth": 473,
+    "timeYear": 467,
     "dailyMinutesDown": {
-      "2025-10-22": 0
+      "2025-10-22": 5
     }
   },
   {
@@ -299,7 +299,7 @@
     "uptime": "57.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.63%",
+    "uptimeMonth": "32.64%",
     "uptimeYear": "57.63%",
     "time": 198,
     "timeDay": 57,
