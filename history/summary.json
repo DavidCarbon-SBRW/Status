@@ -13,7 +13,7 @@
     "time": 546,
     "timeDay": 810,
     "timeWeek": 522,
-    "timeMonth": 582,
+    "timeMonth": 576,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2025-07-23": 24
@@ -33,7 +33,7 @@
     "time": 696,
     "timeDay": 389,
     "timeWeek": 501,
-    "timeMonth": 709,
+    "timeMonth": 718,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2025-07-18": 20,
@@ -54,7 +54,7 @@
     "time": 323,
     "timeDay": 103,
     "timeWeek": 262,
-    "timeMonth": 247,
+    "timeMonth": 249,
     "timeYear": 323,
     "dailyMinutesDown": {}
   },
@@ -72,7 +72,7 @@
     "time": 189,
     "timeDay": 201,
     "timeWeek": 155,
-    "timeMonth": 161,
+    "timeMonth": 162,
     "timeYear": 189,
     "dailyMinutesDown": {}
   },
@@ -90,7 +90,7 @@
     "time": 216,
     "timeDay": 37,
     "timeWeek": 173,
-    "timeMonth": 190,
+    "timeMonth": 185,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -108,7 +108,7 @@
     "time": 445,
     "timeDay": 394,
     "timeWeek": 303,
-    "timeMonth": 370,
+    "timeMonth": 360,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2025-04-24": 784
@@ -128,7 +128,7 @@
     "time": 184,
     "timeDay": 64,
     "timeWeek": 151,
-    "timeMonth": 193,
+    "timeMonth": 197,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -138,15 +138,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.worldunited.gg.ico",
     "slug": "server-wugg",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 168,
     "timeDay": 152,
     "timeWeek": 165,
-    "timeMonth": 165,
+    "timeMonth": 163,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2025-11-08": 17,
@@ -174,7 +174,7 @@
     "time": 611,
     "timeDay": 384,
     "timeWeek": 484,
-    "timeMonth": 547,
+    "timeMonth": 545,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2025-08-13": 250,
@@ -208,7 +208,7 @@
     "time": 386,
     "timeDay": 276,
     "timeWeek": 279,
-    "timeMonth": 306,
+    "timeMonth": 305,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2025-11-01": 25,
@@ -234,7 +234,7 @@
     "time": 469,
     "timeDay": 430,
     "timeWeek": 447,
-    "timeMonth": 487,
+    "timeMonth": 484,
     "timeYear": 469,
     "dailyMinutesDown": {}
   },
@@ -252,7 +252,7 @@
     "time": 130,
     "timeDay": 184,
     "timeWeek": 134,
-    "timeMonth": 133,
+    "timeMonth": 134,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2025-09-30": 17
@@ -298,15 +298,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-wugg-dev",
     "status": "up",
-    "uptime": "61.37%",
+    "uptime": "61.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "61.37%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "61.39%",
     "time": 184,
     "timeDay": 59,
     "timeWeek": 78,
-    "timeMonth": 101,
+    "timeMonth": 100,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-10-13": 44,
@@ -420,7 +420,7 @@
     "time": 623,
     "timeDay": 727,
     "timeWeek": 637,
-    "timeMonth": 631,
+    "timeMonth": 626,
     "timeYear": 623,
     "dailyMinutesDown": {
       "2025-11-12": 95,
