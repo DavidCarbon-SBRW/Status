@@ -24,18 +24,19 @@
     "url": "https://api-sbrw.davidcarbon.download/serverlist.json",
     "icon": "https://icons.duckduckgo.com/ip3/api-sbrw.davidcarbon.download.ico",
     "slug": "api-dc-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 694,
-    "timeDay": 623,
-    "timeWeek": 557,
-    "timeMonth": 733,
-    "timeYear": 694,
+    "time": 693,
+    "timeDay": 476,
+    "timeWeek": 529,
+    "timeMonth": 720,
+    "timeYear": 693,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-07-18": 20,
       "2025-06-12": 18
     }
@@ -45,18 +46,20 @@
     "url": "http://api2-sbrw.davidcarbon.download/serverlist.json",
     "icon": "https://icons.duckduckgo.com/ip3/api2-sbrw.davidcarbon.download.ico",
     "slug": "api-dc-bkup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 145,
-    "timeWeek": 337,
-    "timeMonth": 271,
+    "timeDay": 187,
+    "timeWeek": 323,
+    "timeMonth": 270,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "(CDN) WorldUnited.gg Mirror",
@@ -65,9 +68,9 @@
     "slug": "cdn-wugg",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 181,
@@ -75,7 +78,7 @@
     "timeMonth": 161,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 17
     }
   },
   {
@@ -85,9 +88,9 @@
     "slug": "cdn-dc",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 588,
@@ -95,7 +98,7 @@
     "timeMonth": 217,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 17
     }
   },
   {
@@ -103,18 +106,19 @@
     "url": "https://game.cdn.nightriderz.world/en/index.xml",
     "icon": "https://icons.duckduckgo.com/ip3/game.cdn.nightriderz.world.ico",
     "slug": "cdn-nr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 445,
-    "timeDay": 371,
-    "timeWeek": 398,
-    "timeMonth": 371,
-    "timeYear": 445,
+    "time": 444,
+    "timeDay": 257,
+    "timeWeek": 366,
+    "timeMonth": 364,
+    "timeYear": 444,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-04-24": 784
     }
   },
@@ -125,9 +129,9 @@
     "slug": "cdn-dc-alt",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 149,
@@ -135,7 +139,7 @@
     "timeMonth": 187,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 17
     }
   },
   {
@@ -250,18 +254,19 @@
     "url": "https://core.undergroundstage.net/Engine.svc/GetServerInformation",
     "icon": "https://icons.duckduckgo.com/ip3/core.undergroundstage.net.ico",
     "slug": "server-ugs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 263,
-    "timeWeek": 159,
+    "timeDay": 202,
+    "timeWeek": 157,
     "timeMonth": 140,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-09-30": 17
     }
   },
