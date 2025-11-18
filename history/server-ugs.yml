@@ -1,7 +1,7 @@
 url: https://core.undergroundstage.net/Engine.svc/GetServerInformation
-status: down
-code: 500
-responseTime: 140
-lastUpdated: 2025-11-18T11:57:43.955Z
+status: up
+code: 403
+responseTime: 110
+lastUpdated: 2025-11-18T12:53:13.525Z
 startTime: 2025-03-15T20:22:26.230Z
 generator: Upptime <https://github.com/upptime/upptime>
