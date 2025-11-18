@@ -66,19 +66,19 @@
     "url": "https://cdn.worldunited.gg/en/index.xml",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.worldunited.gg.ico",
     "slug": "cdn-wugg",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "87.39%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.95%",
-    "time": 187,
-    "timeDay": 181,
-    "timeWeek": 159,
-    "timeMonth": 164,
-    "timeYear": 187,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "85.09%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.94%",
+    "time": 188,
+    "timeDay": 199,
+    "timeWeek": 170,
+    "timeMonth": 168,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-11-18": 182
+      "2025-11-18": 215
     }
   },
   {
@@ -127,19 +127,19 @@
     "url": "http://g2-sbrw.davidcarbon.download/en/index.xml",
     "icon": "https://icons.duckduckgo.com/ip3/g2-sbrw.davidcarbon.download.ico",
     "slug": "cdn-dc-alt",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "90.17%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.96%",
-    "time": 183,
-    "timeDay": 110,
-    "timeWeek": 133,
-    "timeMonth": 176,
-    "timeYear": 183,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "87.88%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.95%",
+    "time": 182,
+    "timeDay": 101,
+    "timeWeek": 126,
+    "timeMonth": 173,
+    "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-11-18": 141
+      "2025-11-18": 174
     }
   },
   {
