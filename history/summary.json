@@ -254,9 +254,9 @@
     "url": "https://core.undergroundstage.net/Engine.svc/GetServerInformation",
     "icon": "https://icons.duckduckgo.com/ip3/core.undergroundstage.net.ico",
     "slug": "server-ugs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.95%",
@@ -266,6 +266,7 @@
     "timeMonth": 134,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2025-12-06": 0,
       "2025-11-18": 166,
       "2025-09-30": 17
     }
@@ -311,11 +312,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-wugg-dev",
     "status": "up",
-    "uptime": "64.74%",
+    "uptime": "64.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.74%",
+    "uptimeYear": "64.78%",
     "time": 174,
     "timeDay": 158,
     "timeWeek": 112,
