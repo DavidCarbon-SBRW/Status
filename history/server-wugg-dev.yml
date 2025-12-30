@@ -1,7 +1,7 @@
 url: $SRV_WUGG_DEV/GetServerInformation
 status: up
 code: 200
-responseTime: 140
-lastUpdated: 2025-12-29T12:57:15.947Z
+responseTime: 124
+lastUpdated: 2025-12-30T12:56:24.746Z
 startTime: 2025-03-15T08:31:22.569Z
 generator: Upptime <https://github.com/upptime/upptime>
