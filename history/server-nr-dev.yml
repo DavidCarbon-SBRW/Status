@@ -1,7 +1,7 @@
 url: https://core.thelab.nightriderz.world/Engine.svc/GetServerInformation
-status: down
-code: 502
-responseTime: 589
-lastUpdated: 2026-02-07T11:53:03.211Z
+status: up
+code: 200
+responseTime: 670
+lastUpdated: 2026-02-07T13:02:10.647Z
 startTime: 2025-03-15T08:31:23.119Z
 generator: Upptime <https://github.com/upptime/upptime>
