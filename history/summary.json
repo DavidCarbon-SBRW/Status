@@ -34,7 +34,7 @@
     "timeDay": 421,
     "timeWeek": 456,
     "timeMonth": 496,
-    "timeYear": 641,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2025-11-18": 124,
       "2025-07-18": 20,
@@ -56,7 +56,7 @@
     "timeDay": 229,
     "timeWeek": 278,
     "timeMonth": 232,
-    "timeYear": 305,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2025-12-24": 37,
       "2025-11-18": 124
@@ -97,7 +97,7 @@
     "timeDay": 332,
     "timeWeek": 187,
     "timeMonth": 240,
-    "timeYear": 208,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2025-11-18": 141
     }
@@ -117,7 +117,7 @@
     "timeDay": 362,
     "timeWeek": 305,
     "timeMonth": 343,
-    "timeYear": 421,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2026-02-04": 721,
       "2026-02-03": 448,
@@ -190,7 +190,7 @@
     "timeDay": 427,
     "timeWeek": 518,
     "timeMonth": 481,
-    "timeYear": 571,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2026-03-06": 146,
       "2026-02-04": 721,
@@ -227,7 +227,7 @@
     "timeDay": 240,
     "timeWeek": 338,
     "timeMonth": 309,
-    "timeYear": 360,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2026-03-02": 42,
       "2026-02-09": 49,
@@ -266,11 +266,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.undergroundstage.net.ico",
     "slug": "server-ugs",
     "status": "up",
-    "uptime": "91.78%",
+    "uptime": "91.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "91.78%",
+    "uptimeYear": "91.79%",
     "time": 144,
     "timeDay": 200,
     "timeWeek": 212,
@@ -361,7 +361,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-wugg-dev",
     "status": "up",
-    "uptime": "74.35%",
+    "uptime": "74.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -484,7 +484,7 @@
     "timeDay": 471,
     "timeWeek": 619,
     "timeMonth": 630,
-    "timeYear": 631,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2026-03-15": 139,
       "2026-03-13": 52,
