@@ -108,7 +108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.cdn.nightriderz.world.ico",
     "slug": "cdn-nr",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -257,7 +257,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.undergroundstage.net.ico",
     "slug": "server-ugs",
     "status": "up",
-    "uptime": "92.61%",
+    "uptime": "92.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -345,8 +345,7 @@
       "2025-09-03": 112,
       "2025-07-25": 275,
       "2025-07-24": 32,
-      "2025-06-01": 77,
-      "2025-04-26": 74
+      "2025-06-01": 77
     }
   },
   {
@@ -355,7 +354,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-wugg-dev",
     "status": "up",
-    "uptime": "76.93%",
+    "uptime": "76.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
