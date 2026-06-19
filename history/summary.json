@@ -176,7 +176,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/horizon.nightriderz.world.ico",
     "slug": "server-nr",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -205,11 +205,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/92.63.111.195.ico",
     "slug": "server-we",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.93%",
+    "uptimeDay": "96.07%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.92%",
     "time": 355,
     "timeDay": 261,
     "timeWeek": 346,
@@ -226,7 +226,7 @@
       "2026-02-09": 49,
       "2026-03-02": 42,
       "2026-05-10": 47,
-      "2026-06-19": 0
+      "2026-06-19": 57
     }
   },
   {
