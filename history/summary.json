@@ -187,7 +187,6 @@
     "timeYear": 504,
     "dailyMinutesDown": {
       "2025-07-21": 571,
-      "2025-07-20": 213,
       "2025-07-30": 286,
       "2025-08-06": 454,
       "2025-08-13": 250,
@@ -203,11 +202,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/92.63.111.195.ico",
     "slug": "server-we",
     "status": "down",
-    "uptime": "93.70%",
+    "uptime": "93.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "91.54%",
+    "uptimeYear": "91.46%",
     "time": 358,
     "timeDay": 0,
     "timeWeek": 0,
@@ -222,7 +221,8 @@
       "2026-02-09": 49,
       "2026-03-02": 42,
       "2026-05-10": 47,
-      "2026-07-19": 1325,
+      "2026-07-20": 278,
+      "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -279,7 +279,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.undergroundstage.net.ico",
     "slug": "server-ugs",
     "status": "up",
-    "uptime": "93.89%",
+    "uptime": "93.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -377,11 +377,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-wugg-dev",
     "status": "up",
-    "uptime": "80.93%",
+    "uptime": "80.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.68%",
+    "uptimeYear": "76.76%",
     "time": 126,
     "timeDay": 16,
     "timeWeek": 59,
@@ -472,8 +472,7 @@
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
-      "2025-07-21": 1440,
-      "2025-07-20": 1440
+      "2025-07-21": 1440
     }
   },
   {
@@ -482,11 +481,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.thelab.nightriderz.world.ico",
     "slug": "server-nr-dev",
     "status": "down",
-    "uptime": "97.67%",
-    "uptimeDay": "85.91%",
+    "uptime": "97.62%",
+    "uptimeDay": "58.62%",
     "uptimeWeek": "72.67%",
-    "uptimeMonth": "75.49%",
-    "uptimeYear": "96.95%",
+    "uptimeMonth": "74.59%",
+    "uptimeYear": "96.87%",
     "time": 624,
     "timeDay": 616,
     "timeWeek": 558,
@@ -533,7 +532,8 @@
       "2026-07-08": 1440,
       "2026-07-07": 898,
       "2026-07-17": 208,
-      "2026-07-19": 203
+      "2026-07-19": 317,
+      "2026-07-20": 278
     }
   }
 ]
