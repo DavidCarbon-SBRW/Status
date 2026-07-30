@@ -184,7 +184,6 @@
     "timeMonth": 484,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2025-07-30": 286,
       "2025-08-06": 454,
       "2025-08-13": 250,
       "2026-02-04": 721,
@@ -199,11 +198,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/92.63.111.195.ico",
     "slug": "server-we",
     "status": "down",
-    "uptime": "91.86%",
+    "uptime": "91.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.84%",
+    "uptimeYear": "88.73%",
     "time": 359,
     "timeDay": 0,
     "timeWeek": 0,
@@ -218,7 +217,8 @@
       "2026-02-09": 49,
       "2026-03-02": 42,
       "2026-05-10": 47,
-      "2026-07-29": 1099,
+      "2026-07-30": 249,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -285,11 +285,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/core.undergroundstage.net.ico",
     "slug": "server-ugs",
     "status": "down",
-    "uptime": "93.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "91.71%",
+    "uptime": "93.88%",
+    "uptimeDay": "58.99%",
+    "uptimeWeek": "90.03%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "91.59%",
     "time": 281,
     "timeDay": 29345,
     "timeWeek": 6601,
@@ -333,7 +333,8 @@
       "2026-03-01": 84,
       "2026-03-10": 32,
       "2026-07-23": 414,
-      "2026-07-29": 1
+      "2026-07-30": 249,
+      "2026-07-29": 341
     }
   },
   {
@@ -383,11 +384,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-wugg-dev",
     "status": "up",
-    "uptime": "81.31%",
+    "uptime": "81.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.38%",
+    "uptimeYear": "79.49%",
     "time": 122,
     "timeDay": 144,
     "timeWeek": 75,
@@ -468,8 +469,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
