@@ -13,7 +13,7 @@
     "time": 545,
     "timeDay": 691,
     "timeWeek": 598,
-    "timeMonth": 517,
+    "timeMonth": 523,
     "timeYear": 547,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 641,
     "timeDay": 558,
     "timeWeek": 1163,
-    "timeMonth": 797,
+    "timeMonth": 808,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2025-11-18": 124
@@ -51,7 +51,7 @@
     "time": 298,
     "timeDay": 165,
     "timeWeek": 221,
-    "timeMonth": 288,
+    "timeMonth": 291,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-11-18": 124,
@@ -72,7 +72,7 @@
     "time": 176,
     "timeDay": 143,
     "timeWeek": 198,
-    "timeMonth": 174,
+    "timeMonth": 178,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2025-11-18": 215
@@ -92,7 +92,7 @@
     "time": 201,
     "timeDay": 394,
     "timeWeek": 412,
-    "timeMonth": 231,
+    "timeMonth": 234,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2025-11-18": 141
@@ -112,7 +112,7 @@
     "time": 376,
     "timeDay": 350,
     "timeWeek": 512,
-    "timeMonth": 520,
+    "timeMonth": 524,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2025-11-18": 124,
@@ -134,7 +134,7 @@
     "time": 174,
     "timeDay": 357,
     "timeWeek": 293,
-    "timeMonth": 192,
+    "timeMonth": 191,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-11-18": 174
@@ -154,7 +154,7 @@
     "time": 159,
     "timeDay": 225,
     "timeWeek": 201,
-    "timeMonth": 136,
+    "timeMonth": 139,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2025-09-27": 16,
@@ -180,7 +180,7 @@
     "time": 518,
     "timeDay": 500,
     "timeWeek": 486,
-    "timeMonth": 532,
+    "timeMonth": 539,
     "timeYear": 502,
     "dailyMinutesDown": {
       "2026-02-04": 721,
@@ -195,11 +195,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/92.63.111.195.ico",
     "slug": "server-we",
     "status": "down",
-    "uptime": "83.91%",
+    "uptime": "83.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.84%",
+    "uptimeYear": "75.73%",
     "time": 367,
     "timeDay": 0,
     "timeWeek": 0,
@@ -212,7 +212,7 @@
       "2026-02-09": 49,
       "2026-03-02": 42,
       "2026-05-10": 47,
-      "2026-09-15": 359,
+      "2026-09-15": 921,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
@@ -317,7 +317,7 @@
     "time": 468,
     "timeDay": 494,
     "timeWeek": 473,
-    "timeMonth": 441,
+    "timeMonth": 446,
     "timeYear": 466,
     "dailyMinutesDown": {}
   },
@@ -326,17 +326,17 @@
     "url": "https://core.undergroundstage.net/Engine.svc/GetServerInformation",
     "icon": "https://icons.duckduckgo.com/ip3/core.undergroundstage.net.ico",
     "slug": "server-ugs",
-    "status": "up",
+    "status": "down",
     "uptime": "94.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.45%",
-    "time": 413,
-    "timeDay": 215,
-    "timeWeek": 219,
-    "timeMonth": 188,
-    "timeYear": 509,
+    "time": 538,
+    "timeDay": 29483,
+    "timeWeek": 7536,
+    "timeMonth": 2081,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2025-09-30": 17,
       "2025-11-18": 166,
@@ -376,7 +376,8 @@
       "2026-03-10": 32,
       "2026-07-23": 414,
       "2026-07-30": 1029,
-      "2026-07-29": 341
+      "2026-07-29": 341,
+      "2026-09-15": 1
     }
   },
   {
@@ -423,15 +424,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-wugg-dev",
     "status": "up",
-    "uptime": "82.93%",
+    "uptime": "82.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.39%",
+    "uptimeYear": "92.50%",
     "time": 109,
     "timeDay": 142,
     "timeWeek": 116,
-    "timeMonth": 79,
+    "timeMonth": 81,
     "timeYear": 89,
     "dailyMinutesDown": {
       "2025-10-13": 44,
@@ -478,7 +479,7 @@
     "time": 613,
     "timeDay": 891,
     "timeWeek": 676,
-    "timeMonth": 632,
+    "timeMonth": 637,
     "timeYear": 625,
     "dailyMinutesDown": {
       "2025-10-01": 52,
